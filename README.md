@@ -1,6 +1,7 @@
 # NewsWebsite
 
 **Project Title and Description**
+
 This project marks the culmination of my work in Information and Web Programming (CISC-2350) under the guidance of Professor George Pefanis.
 
 **The project task is outlined as follows**
