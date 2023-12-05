@@ -48,9 +48,9 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 
 function cancelLogin() {
-  window.location.href = "../sites/home.html";
+  window.location.href = "../sites/index.html";
 }
 
 function cancelSignUp() {
-  window.location.href = "../sites/home.html";
+  window.location.href = "../sites/index.html";
 }
